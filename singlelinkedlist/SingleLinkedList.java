@@ -36,15 +36,16 @@ public class SingleLinkedList {
 			previous= head;
 			next= head.value;
 		}
-		System.out.println("SingleLinkedList.delete()"+next.data);
 
-		//display(next.value);
-		//display(head.value);
-
+		//holding 1 since 2 is to be deleted if position to delete =2
 		SingleList afterDelete= previous;//from previous current node
+		System.out.println("SingleLinkedList:previous"+previous.data);
+		System.out.println("SingleLinkedList:after"+previous.value.data);
+		System.out.println("TO DELETE:::::"+next.data);
+
 		previous.value = next.value;
+		next = null;
 		//current.value = null;
-		
 		return afterDelete;
 	}
 	
