@@ -2,7 +2,7 @@
 
 Coding competitions around the world happen frequently. These competitions give you the challenge to solve complex problems and test your coding skills. 
 
-Some of the best coding competitions include
+Some of the best coding competitions Available
 
 1)Google Code Jam
 
@@ -18,5 +18,4 @@ Some of the best coding competitions include
 
 7)Topcoder contest, 
 
-etc. The winners are paid with goodies from the organizers and some huge cash prizes as well.
 
