@@ -10,7 +10,7 @@ public class RotateArrays {
 	//so last 2or 3  i.e 2 or 3  based on rotate by time. since rotate 2or 3 it decrease by 2 or 3 based on rotate time.
 	int order = 3;
 	int length = arr.length-1;
-	Test1() {
+	RotateArrays() {
 		
 		int limit = length - order;
 		
